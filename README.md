@@ -176,7 +176,7 @@ Ma trajectoire me porte aujourd'hui vers :
 |------|-------|-------------|-------|
 | 🎓 Diplôme | MSc Gestion de Projet (Recherche) — cote 4,03/4,3 | UQAR, Québec | 2023–2025 |
 | 🎓 Diplôme | MPH Santé Publique Internationale — Mention Excellente | Université Senghor, Alexandrie | 2019–2021 |
-| 🎓 Diplôme | Licence Sciences Infirmières — 1er de promotion | Université d'Abomey-Calavi | 2012–2015 |
+| 🎓 Diplôme | Licence Sciences Infirmières | Université d'Abomey-Calavi | 2012–2015 |
 | 🤖 Certif. | Bootcamp Data & Intelligence Artificielle | iShero | 2023 |
 | 📊 Certif. | Certificat Analyse de Données | Google | 2024 |
 | 🏥 Certif. | Informatique & Information Médicale (DPI, BDD santé) | Aix-Marseille Université | 2022–2023 |
