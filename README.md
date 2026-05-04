@@ -172,20 +172,17 @@ Ma trajectoire me porte aujourd'hui vers :
 
 ## 🎓 Formation & Certifications clés
 
-| Diplôme | Institution | Année |
-|---------|-------------|-------|
-| MSc Gestion de Projet (Recherche) — cote 4,03/4,3 | UQAR, Québec | 2023–2025 |
-| MPH Santé Publique Internationale — Mention Excellente | Université Senghor, Alexandrie | 2019–2021 |
-| Licence Sciences Infirmières — 1er de promotion | Université d'Abomey-Calavi | 2012–2015 |
-
-| Certification | Organisme | Année |
-|---------------|-----------|-------|
-| 🤖 Bootcamp Data & Intelligence Artificielle | iShero | 2023 |
-| 📊 Certificat Analyse de Données | Google | 2024 |
-| 🏥 Informatique & Information Médicale (DPI, BDD santé) | Aix-Marseille Université | 2022–2023 |
-| 📈 Analyse statistique & surveillance en santé publique | INSPQ & EPSUM | 2025 |
-| 🔬 Implementation Research | OMS | 2021 |
-| 📐 Concepts & méthodes en épidémiologie | CNAM | 2020 |
+| Type | Titre | Institution | Année |
+|------|-------|-------------|-------|
+| 🎓 Diplôme | MSc Gestion de Projet (Recherche) — cote 4,03/4,3 | UQAR, Québec | 2023–2025 |
+| 🎓 Diplôme | MPH Santé Publique Internationale — Mention Excellente | Université Senghor, Alexandrie | 2019–2021 |
+| 🎓 Diplôme | Licence Sciences Infirmières — 1er de promotion | Université d'Abomey-Calavi | 2012–2015 |
+| 🤖 Certif. | Bootcamp Data & Intelligence Artificielle | iShero | 2023 |
+| 📊 Certif. | Certificat Analyse de Données | Google | 2024 |
+| 🏥 Certif. | Informatique & Information Médicale (DPI, BDD santé) | Aix-Marseille Université | 2022–2023 |
+| 📈 Certif. | Analyse statistique & surveillance en santé publique | INSPQ & EPSUM | 2025 |
+| 🔬 Certif. | Implementation Research | OMS | 2021 |
+| 📐 Certif. | Concepts & méthodes en épidémiologie | CNAM | 2020 |
 
 ---
 
