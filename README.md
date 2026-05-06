@@ -163,7 +163,7 @@ Ma trajectoire me porte aujourd'hui vers :
 
 | Année | Publication | Lien |
 |-------|-------------|------|
-| 2026 | **Ahlou A.E.** et al. — *Évaluation de l'implémentation des projets SSR pour ados & jeunes — JADES 2, Niger*. 93e Congrès ACFAS, Trois-Rivières | [→ ACFAS](https://www.acfas.ca/evenements/congres/programme/93/100/109/d) |
+| 2026 | **Ahlou A.E.** et al. — *Évaluation de l'implémentation des projets SSR pour ados & jeunes — JADES 2, Niger*. 93e Congrès ACFAS, Trois-Rivières | [→ ACFAS](https://www.acfas.ca/evenements/congres/93/contribution/evaluation-implementation-projets-sante-sexuelle-reproductive) |
 | 2024 | **Ahlou A.E.** et al. — *Unraveling the quality of implementation of SRH projects among adolescents — Niger*. **Pan African Medical Journal** | [→ DOI](https://doi.org/10.11604/pamj.2024.47.123.42725) |
 | 2025 | **Ahlou A.E.** — *Indice de richesse combiné et contraception moderne — Bénin* | [→ DOI](https://doi.org/10.13140/RG.2.2.34128.21762) |
 | 2024 | **Ahlou A.E.** — *Couplage données/connaissances dans les systèmes d'information hospitaliers* | [→ DOI](https://doi.org/10.13140/RG.2.2.24131.62241) |
