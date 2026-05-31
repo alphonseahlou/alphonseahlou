@@ -94,6 +94,22 @@ Ma trajectoire me porte aujourd'hui vers :
 
 ## 🚀 Projets & Travaux en cours
 
+### 📱 [Adoxy — Santé Sexuelle & Reproductive des Adolescents](https://github.com/alphonseahlou/adoxy-app)
+**Application mobile innovante (en cours)**
+- Application mobile dédiée à la santé sexuelle et reproductive (SSR) des adolescents et jeunes
+- Accès à des ressources fiables, confidentielles et adaptées aux jeunes en contexte africain
+- Conçue pour combler le gap d'information SSR dans les zones à faible accès aux services de santé
+- **Outils :** React Native, Node.js, base de données santé, tests automatisés (210 tests)
+
+### 🗄️ [sqlsante — Apprendre SQL pour la Santé](https://alphonseahlou.github.io/sqlsante/)
+**Plateforme éducative (en cours)**
+- Plateforme interactive pour apprendre le SQL à travers des cas concrets en santé publique
+- Exercices et datasets inspirés de données épidémiologiques et de systèmes d'information de santé
+- Destinée aux professionnels de santé, épidémiologistes et étudiants en data santé
+- **Outils :** SQL, Python, données de santé publique
+
+---
+
 ### 🖥️ [Dossier Patient Informatisé & Systèmes Hospitaliers](https://doi.org/10.13140/RG.2.2.24131.62241)
 **Publication de recherche (2024)**
 - Analyse des processus de couplage données/connaissances dans les SIH
