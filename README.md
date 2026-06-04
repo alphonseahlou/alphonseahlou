@@ -3,9 +3,10 @@
   <img src="https://github.com/alphonseahlou.png" alt="Alphonse Euphrème Ahlou" width="150" style="border-radius: 50%;" />
 </div>
 
-<!-- Typing SVG animé -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=👋+Bonjour%2C+je+suis+Alphonse+Euphrème+AHLOU;🏥+Data+en+Santé+%7C+Innovation+Technologique;📊+Suivi-Évaluation+%7C+Épidémiologie;🖥️+Dossier+Patient+Informatisé+%7C+HIS;🔬+Évaluation+des+Technologies+de+Santé" alt="Typing SVG" />
+  <h2>👋 Bonjour, je suis Alphonse Euphrème AHLOU</h2>
+  <p>🏥 Data en Santé &nbsp;|&nbsp; Innovation Technologique &nbsp;|&nbsp; 📊 Suivi-Évaluation &nbsp;|&nbsp; Épidémiologie</p>
+  <p>🖥️ Dossier Patient Informatisé &nbsp;|&nbsp; 🔬 Évaluation des Technologies de Santé</p>
 </div>
 
 <div align="center">
@@ -29,14 +30,14 @@
 
 ## 👨‍⚕️ Qui suis-je ?
 
-Je suis un **professionnel de santé publique internationale** qui se spécialise à l'intersection de la **donnée, de la technologie et de l'épidémiologie de terrain**. Avec plus de **8 ans d'expérience** au Bénin, au Niger, en Haïti et au Canada, j'ai coordonné des projets de santé couvrant plus de **50 communautés** et **10 centres de santé**.
+Je suis un **professionnel de santé publique internationale** spécialisé en **data, épidémiologie et systèmes d'information de santé**. Avec plus de **8 ans d'expérience** au Bénin, au Niger, en Haïti et au Canada, j'ai coordonné des projets dans divers contextes en combinant **analyse de données terrain** et **outils numériques** pour améliorer les décisions en santé et la performance des systèmes.
 
 > *"Les données de santé ne valent que si elles se transforment en décisions qui sauvent des vies."*
 
 Ma trajectoire me porte aujourd'hui vers :
-- 🖥️ La **transformation numérique des systèmes de santé** (DPI, HIS, interopérabilité)
-- 📊 La **data en santé** pour l'épidémiologie et la recherche en générale
-- 🔬 L'**évaluation des technologies de santé** (ETS / HTA)
+- 🖥️ Les **systèmes d'information de santé** (DPI, HIS, interopérabilité HL7/FHIR)
+- 📊 La **data et l'épidémiologie** pour la recherche et la prise de décision en santé
+- 📈 La **BI et l'intelligence d'affaire** appliquées aux données de santé (Power BI, Fabric)
 - 📋 Le **suivi-évaluation** basé sur des données probantes
 
 ---
@@ -58,10 +59,9 @@ Ma trajectoire me porte aujourd'hui vers :
 <td width="50%">
 
 **📊 Data en Santé & Épidémiologie**
-- Analyse épidémiologique quantitative et qualitative
-- Modélisation statistique (R, Python, SPSS)
-- Visualisation de données de santé (Power BI, Tableau)
-- Bases de données relationnelles (SQL)
+- Analyse épidémiologique quantitative (R, SPSS) et qualitative
+- Nettoyage et gestion de données d'enquêtes populationnelles
+- Surveillance épidémiologique et indicateurs de santé publique
 - Machine Learning appliqué à la santé
 
 </td>
@@ -69,12 +69,13 @@ Ma trajectoire me porte aujourd'hui vers :
 <tr>
 <td width="50%">
 
-**🔬 Évaluation des Technologies de Santé (ETS)**
-- Évaluation de l'implémentation de programmes de santé
-- Recherche sur les systèmes de santé (HSR)
-- Cadres d'évaluation : RE-AIM, CFIR, MRC
-- Publications scientifiques à comité de lecture
-- Revue systématique & synthèse des preuves
+**📊 BI & Intelligence d'affaire**
+- Conception de tableaux de bord décisionnels (Power BI, Tableau)
+- Modélisation de données et DAX
+- Microsoft Fabric (lakehouse, pipelines, rapports unifiés)
+- Analyse des indicateurs de performance (KPI)
+- Intégration de sources de données (ETL, SQL)
+- Visualisation orientée prise de décision
 
 </td>
 <td width="50%">
@@ -206,8 +207,6 @@ Ma trajectoire me porte aujourd'hui vers :
 
 <div align="center">
 
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=alphonseahlou&theme=radical&no-frame=true&margin-w=4&row=1)](https://github.com/alphonseahlou)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphonseahlou&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/alphonseahlou)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonseahlou&layout=compact&theme=radical&hide_border=true)](https://github.com/alphonseahlou)
@@ -216,19 +215,6 @@ Ma trajectoire me porte aujourd'hui vers :
 
 ---
 
-## 💼 Opportunités recherchées
-
-Je suis à la recherche de rôles à l'intersection de la **santé publique et du numérique** :
-
-| Domaine | Contexte |
-|---------|---------|
-| 🖥️ Implémentation & évaluation de DPI / EHR | Systèmes de santé en Afrique ou au Canada |
-| 🔬 Évaluation des technologies de santé (ETS/HTA) | Organismes publics, agences d'évaluation |
-| 📊 Data analyst / épidémiologiste de terrain | ONG internationales, agences ONU |
-| 📋 Conseiller M&E | Projets de coopération internationale |
-| 🤖 Recherche en IA appliquée à la santé | Institutions académiques et hospitalières |
-
----
 
 ## 🌐 Me contacter & me retrouver
 
