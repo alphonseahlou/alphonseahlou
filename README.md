@@ -114,29 +114,29 @@ Ma trajectoire me porte aujourd'hui vers :
 **Publication de recherche (2024)**
 - Analyse des processus de couplage données/connaissances dans les SIH
 - Revue des outils d'aide à la décision clinique intégrés aux DPI
-- Formation en Informatique et Information Médicale — Aix-Marseille Université
+- Formation en Informatique et Information Médicale, Aix-Marseille Université
 - **Outils :** Architecture BDD, standards HL7, interopérabilité
 
-### 📊 [JADES 2 – Évaluation de l'implémentation SSR, Niger](https://doi.org/10.11604/pamj.2024.47.123.42725)
+### 📊 [JADES 2 : Évaluation de l'implémentation SSR, Niger](https://doi.org/10.11604/pamj.2024.47.123.42725)
 **Publié dans le Pan African Medical Journal (2024)**
 - Évaluation rigoureuse de la qualité d'implémentation d'un programme SSR dans 10 centres de santé
 - Étude auprès de 203 adolescents et 9 agents de santé
 - **+70% d'augmentation des consultations contraceptives** documentée
 - **Outils :** R, SPSS, KoboCollect, ODK, cadres d'évaluation MRC
 
-### 💊 [Indice de richesse & contraception moderne — Bénin](https://doi.org/10.13140/RG.2.2.34128.21762)
+### 💊 [Indice de richesse & contraception moderne, Bénin](https://doi.org/10.13140/RG.2.2.34128.21762)
 **Publication épidémiologique (2025)**
 - Modélisation statistique des déterminants socio-économiques du recours à la contraception
 - Analyse quantitative sur données populationnelles nationales
 - **Outils :** R, SPSS, modèles de régression logistique
 
-### 🌍 [PASSREL – Capitalisation, Haïti](https://github.com/alphonseahlou) | Fondation Paul Gérin-Lajoie / ACDI
-**Recherche qualitative en contexte de crise (2024–2025)**
+### 🌍 [PASSREL : Capitalisation, Haïti](https://github.com/alphonseahlou) | Fondation Paul Gérin-Lajoie / ACDI
+**Recherche qualitative en contexte de crise (2024-2025)**
 - Entretiens et analyse thématique sur l'implémentation d'un programme SSR égalitaire
 - Rapport stratégique incluant des recommandations opérationnelles pour l'ACDI
 - **Outils :** NVivo, analyse thématique, cadres de capitalisation
 
-### 📈 [Projet ÉQUITÉ – Mesure d'impact comportemental](https://github.com/alphonseahlou) | Enabel / Bénin
+### 📈 [Projet ÉQUITÉ : Mesure d'impact comportemental](https://github.com/alphonseahlou) | Enabel / Bénin
 **Évaluation de programme à grande échelle**
 - Baromètre ICAP sur 50 villages, 12 000+ personnes touchées
 - **+29 points d'amélioration** documentés (34% → 62% d'adhésion)
@@ -179,10 +179,10 @@ Ma trajectoire me porte aujourd'hui vers :
 
 | Année | Publication | Lien |
 |-------|-------------|------|
-| 2026 | **Ahlou A.E.** et al. — *Évaluation de l'implémentation des projets SSR pour ados & jeunes — JADES 2, Niger*. 93e Congrès ACFAS, Trois-Rivières | [→ ACFAS](https://www.acfas.ca/evenements/congres/93/contribution/evaluation-implementation-projets-sante-sexuelle-reproductive) |
-| 2024 | **Ahlou A.E.** et al. — *Unraveling the quality of implementation of SRH projects among adolescents — Niger*. **Pan African Medical Journal** | [→ DOI](https://doi.org/10.11604/pamj.2024.47.123.42725) |
-| 2025 | **Ahlou A.E.** — *Indice de richesse combiné et contraception moderne — Bénin* | [→ DOI](https://doi.org/10.13140/RG.2.2.34128.21762) |
-| 2024 | **Ahlou A.E.** — *Couplage données/connaissances dans les systèmes d'information hospitaliers* | [→ DOI](https://doi.org/10.13140/RG.2.2.24131.62241) |
+| 2026 | **Ahlou A.E.** et al., *Évaluation de l'implémentation des projets SSR pour ados & jeunes, JADES 2, Niger*. 93e Congrès ACFAS, Trois-Rivières | [→ ACFAS](https://www.acfas.ca/evenements/congres/93/contribution/evaluation-implementation-projets-sante-sexuelle-reproductive) |
+| 2024 | **Ahlou A.E.** et al., *Unraveling the quality of implementation of SRH projects among adolescents, Niger*. **Pan African Medical Journal** | [→ DOI](https://doi.org/10.11604/pamj.2024.47.123.42725) |
+| 2025 | **Ahlou A.E.**, *Indice de richesse combiné et contraception moderne, Bénin* | [→ DOI](https://doi.org/10.13140/RG.2.2.34128.21762) |
+| 2024 | **Ahlou A.E.**, *Couplage données/connaissances dans les systèmes d'information hospitaliers* | [→ DOI](https://doi.org/10.13140/RG.2.2.24131.62241) |
 
 ---
 
@@ -190,12 +190,12 @@ Ma trajectoire me porte aujourd'hui vers :
 
 | Type | Titre | Institution | Année |
 |------|-------|-------------|-------|
-| 🎓 Diplôme | MSc Gestion de Projet (Recherche) — cote 4,03/4,3 | UQAR, Québec | 2023–2025 |
-| 🎓 Diplôme | MPH Santé Publique Internationale — Mention Excellente | Université Senghor, Alexandrie | 2019–2021 |
+| 🎓 Diplôme | MSc Gestion de Projet (Recherche), cote 4,03/4,3 | UQAR, Québec | 2023-2025 |
+| 🎓 Diplôme | MPH Santé Publique Internationale, Mention Excellente | Université Senghor, Alexandrie | 2019-2021 |
 | 🎓 Diplôme | Licence Sciences Infirmières | Université d'Abomey-Calavi | 2012–2015 |
 | 🤖 Certif. | Bootcamp Data & Intelligence Artificielle | iShero | 2023 |
 | 📊 Certif. | Certificat Analyse de Données | Google | 2024 |
-| 🏥 Certif. | Informatique & Information Médicale (DPI, BDD santé) | Aix-Marseille Université | 2022–2023 |
+| 🏥 Certif. | Informatique & Information Médicale (DPI, BDD santé) | Aix-Marseille Université | 2022-2023 |
 | 📈 Certif. | Analyse statistique & surveillance en santé publique | INSPQ & EPSUM | 2025 |
 | 🔬 Certif. | Implementation Research | OMS | 2021 |
 | 📐 Certif. | Concepts & méthodes en épidémiologie | CNAM | 2020 |
@@ -261,7 +261,7 @@ Je suis à la recherche de rôles à l'intersection de la **santé publique et d
 
 🌍 **Français** (natif) · **Anglais** (professionnel) · **Arabe** (élémentaire)
 
-*"La santé numérique n'est pas une fin en soi — c'est un levier pour des soins plus équitables, plus accessibles, et mieux évalués."*
+*"La santé numérique n'est pas une fin en soi - c'est un levier pour des soins plus équitables, plus accessibles, et mieux évalués."*
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)](https://github.com/alphonseahlou)
 
