@@ -1,6 +1,6 @@
 <!-- Photo de profil -->
 <div align="center">
-  <img src="https://alphonseahlou.github.io/portfolio/photo.jpg" alt="Alphonse Euphrème Ahlou" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/alphonseahlou.png" alt="Alphonse Euphrème Ahlou" width="150" style="border-radius: 50%;" />
 </div>
 
 <!-- Typing SVG animé -->
@@ -94,14 +94,14 @@ Ma trajectoire me porte aujourd'hui vers :
 
 ## 🚀 Projets & Travaux en cours
 
-### 📱 [Adoxy — Santé Sexuelle & Reproductive des Adolescents](https://github.com/alphonseahlou/adoxy-app)
+### 📱 [Adoxy : Santé Sexuelle & Reproductive des Adolescents](https://github.com/alphonseahlou/adoxy-app)
 **Application mobile innovante (en cours)**
 - Application mobile dédiée à la santé sexuelle et reproductive (SSR) des adolescents et jeunes
 - Accès à des ressources fiables, confidentielles et adaptées aux jeunes en contexte africain
 - Conçue pour combler le gap d'information SSR dans les zones à faible accès aux services de santé
 - **Outils :** React Native, Node.js, base de données santé, tests automatisés (210 tests)
 
-### 🗄️ [sqlsante — Apprendre SQL pour la Santé](https://alphonseahlou.github.io/sqlsante/)
+### 🗄️ [sqlsante : Apprendre SQL pour la Santé](https://alphonseahlou.github.io/sqlsante/)
 **Plateforme éducative (en cours)**
 - Plateforme interactive pour apprendre le SQL à travers des cas concrets en santé publique
 - Exercices et datasets inspirés de données épidémiologiques et de systèmes d'information de santé
@@ -206,7 +206,7 @@ Ma trajectoire me porte aujourd'hui vers :
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alphonseahlou&theme=radical&hide_border=true)](https://github.com/alphonseahlou)
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=alphonseahlou&theme=radical&no-frame=true&margin-w=4&row=1)](https://github.com/alphonseahlou)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphonseahlou&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/alphonseahlou)
 
