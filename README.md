@@ -103,11 +103,25 @@ Ma trajectoire me porte aujourd'hui vers :
 - **Outils :** React Native, Node.js, base de données santé, tests automatisés (210 tests)
 
 ### 🗄️ [sqlsante : Apprendre SQL pour la Santé](https://alphonseahlou.github.io/sqlsante/)
-**Plateforme éducative (en cours)**
+**Plateforme éducative (terminé)**
 - Plateforme interactive pour apprendre le SQL à travers des cas concrets en santé publique
 - Exercices et datasets inspirés de données épidémiologiques et de systèmes d'information de santé
 - Destinée aux professionnels de santé, épidémiologistes et étudiants en data santé
 - **Outils :** SQL, Python, données de santé publique
+
+### 🐍 [santePython : Apprendre Python pour la Santé](https://alphonseahlou.github.io/santePython/)
+**Plateforme éducative (terminé)**
+- Plateforme interactive pour apprendre Python en écrivant du vrai code dans le navigateur (moteur Pyodide / WebAssembly, sans installation)
+- Parcours du débutant à l'expert : variables, conditions et boucles jusqu'à pandas, numpy et scripts de production
+- Exercices validés automatiquement sur la sortie du code, lexique Python intégré, suivi de progression par compétence
+- **Outils :** Python, Pyodide (WebAssembly), JavaScript vanilla
+
+### 📐 [santeDAX : Apprendre DAX pour Power BI](https://alphonseahlou.github.io/santeDAX/)
+**Plateforme éducative (terminé)**
+- Plateforme interactive pour apprendre le langage DAX (Power BI) en contexte hospitalier
+- 36 leçons du débutant à l'expert, alignées sur la certification PL-300
+- Exercices interactifs, lexique des fonctions DAX, suivi de progression par compétence
+- **Outils :** DAX, Power BI, JavaScript vanilla
 
 ---
 
